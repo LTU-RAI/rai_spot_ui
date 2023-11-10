@@ -1,0 +1,9 @@
+<library path="lib/libspot_ui">
+  <class name="spot_ui/SPOT INTERFACE"
+         type="spot_ui::spot_panel"
+         base_class_type="rviz::Panel">
+    <description>
+      A Rviz panel widget for control of LTU RAI BD SPOT.
+    </description>
+  </class>
+</library>
