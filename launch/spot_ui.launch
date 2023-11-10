@@ -1,5 +1,5 @@
 <launch>
-  <node pkg="rviz" type="rviz" name="spot_ui" output="screen" args="-d $(find spot_ui)/config/stage_planner.rviz">
+  <node pkg="rviz" type="rviz" name="rai_spot_ui" output="screen" args="-d $(find rai_spot_ui)/config/spot_ui.rviz">
 
   </node>
 </launch>
